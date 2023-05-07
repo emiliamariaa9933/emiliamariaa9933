@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" />
- </p>
+
 
 ### > Technologies I work with
 <div style="display: inline_block"><br>
